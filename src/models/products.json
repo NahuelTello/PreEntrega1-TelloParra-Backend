@@ -1,0 +1,112 @@
+[
+    {
+        "id": 0,
+        "title": "producto prueba",
+        "description": "Este es un producto prueba",
+        "price": 200,
+        "thumbnail": [],
+        "code": "abc123",
+        "stock": 25,
+        "status": true
+    },
+    {
+        "id": 1,
+        "title": "Iphone 14 Pro Max",
+        "description": "128gb",
+        "price": 3000,
+        "thumbnail": [],
+        "code": "abc124",
+        "stock": 30,
+        "status": false
+    },
+    {
+        "id": 2,
+        "title": "Iphone 13 Pro Max",
+        "description": "128gb",
+        "price": 5000,
+        "thumbnail": [],
+        "code": "abc125",
+        "stock": 50,
+        "status": true
+    },
+    {
+        "id": 3,
+        "title": "Iphone 12 Pro Max",
+        "description": "128gb",
+        "price": 2010,
+        "thumbnail": [],
+        "code": "abc126",
+        "stock": 25,
+        "status": true
+    },
+    {
+        "id": 4,
+        "title": "Iphone 11 Pro Max",
+        "description": "128gb",
+        "price": 200,
+        "thumbnail": [],
+        "code": "abc127",
+        "stock": 25,
+        "status": true
+    },
+    {
+        "id": 5,
+        "title": "Iphone 14 Pro",
+        "description": "128gb",
+        "price": 300,
+        "thumbnail": [],
+        "code": "abc128",
+        "stock": 30,
+        "status": true
+    },
+    {
+        "id": 6,
+        "title": "Iphone 13 Pro",
+        "description": "128gb",
+        "price": 300,
+        "thumbnail": [],
+        "code": "abc129",
+        "stock": 30,
+        "status": true
+    },
+    {
+        "id": 7,
+        "title": "Iphone 12 Pro",
+        "description": "128gb",
+        "price": 300,
+        "thumbnail": [],
+        "code": "abc130",
+        "stock": 30,
+        "status": true
+    },
+    {
+        "id": 8,
+        "title": "Iphone 11 Pro",
+        "description": "128gb",
+        "price": 300,
+        "thumbnail": [],
+        "code": "abc131",
+        "stock": 30,
+        "status": true
+    },
+    {
+        "id": 9,
+        "title": "Iphone 14",
+        "description": "128gb",
+        "price": 300,
+        "thumbnail": [],
+        "code": "abc132",
+        "stock": 30,
+        "status": true
+    },
+    {
+        "id": 10,
+        "title": "Iphone 14 Plus",
+        "description": "128gb",
+        "price": 500,
+        "thumbnail": [],
+        "code": "abc133",
+        "stock": 330,
+        "status": true
+    }
+]
